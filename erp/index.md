@@ -45,6 +45,10 @@ This extension augments only the following pages with useful actions.
 - mail.google.com
 - web.telegram.org
 
+## Generating an email response
+The feature that generates an email response reads the load number from your Gmail search or subject line so it can pull the right load from ERP.  
+It doesn't read email bodies. Nothing from your emails is stored anywhere.
+
 ## The AutoHotkey companion
 The extension ships with an optional AutoHotkey script for the Zoom desktop app.  
 If you install and run it, it tries to recognise a phone number from your clipboard so it can bring Zoom up and dial it.  
@@ -57,4 +61,4 @@ To remove the AutoHotkey script, close it and delete its folder.
 ## Contact
 Questions go to whoever on your team set this up for you. 
 
-<p class="erp-updated">22 July 2026</p>
+<p class="erp-updated">29 August 2026</p>
